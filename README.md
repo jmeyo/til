@@ -25,6 +25,7 @@ I aim to contribute one small thing I learn each day to keep track of progress.
 ### Vim
 
 - [Relative Line Numbering](vim/relative-line-numbering.md)
+- [Sorting Lines](vim/sorting-lines.md)
 
 ---
 
