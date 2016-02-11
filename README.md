@@ -8,9 +8,14 @@ I aim to contribute one small thing I learn each day to keep track of progress.
 
 ### Categories
 
+* [SQL](#sql)
 * [Vim](#vim)
 
 ---
+
+### SQL
+
+- [MAX Function](sql/max-function.md)
 
 ### Vim
 
