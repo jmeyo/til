@@ -8,10 +8,15 @@ I aim to contribute one small thing I learn each day to keep track of progress.
 
 ### Categories
 
+* [Linux](#linux)
 * [SQL](#sql)
 * [Vim](#vim)
 
 ---
+
+### Linux
+
+- [World Wide Identifiers](linux/world-wide-identifiers.md)
 
 ### SQL
 
