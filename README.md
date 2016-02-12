@@ -17,6 +17,7 @@ I aim to contribute one small thing I learn each day to keep track of progress.
 ### Linux
 
 - [World Wide Identifiers](linux/world-wide-identifiers.md)
+- [Last Two Fields In fstab](linux/last_two_fields_in_fstab.md)
 
 ### SQL
 
