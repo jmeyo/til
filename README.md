@@ -17,15 +17,15 @@ I aim to contribute one small thing I learn each day to keep track of progress.
 
 ### Bash
 
-- [Parsing Bash Arguments](bash/parsing_bash_arguments.md)
-- [Pretty Printing and Parsing JSON](bash/pretty_printing_and_parsing_json.md)
+- [Parsing Bash Arguments](bash/parsing-bash-arguments.md)
+- [Pretty Printing and Parsing JSON](bash/pretty-printing-and-parsing-json.md)
 
 ---
 
 ### Linux
 
 - [World Wide Identifiers](linux/world-wide-identifiers.md)
-- [Last Two Fields In fstab](linux/last_two_fields_in_fstab.md)
+- [Last Two Fields In fstab](linux/last-two-fields-in-fstab.md)
 
 ### SQL
 
