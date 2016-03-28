@@ -10,6 +10,7 @@ I aim to contribute one small thing I learn each day to keep track of progress.
 
 * [Bash](#bash)
 * [Linux](#linux)
+* [MySQL](#mysql)
 * [SQL](#sql)
 * [Vim](#vim)
 
@@ -24,12 +25,17 @@ I aim to contribute one small thing I learn each day to keep track of progress.
 
 ### Linux
 
-- [World Wide Identifiers](linux/world-wide-identifiers.md)
+- [File Transfer Alternatives](linux/file-transfer-alternatives.md)
 - [Last Two Fields In fstab](linux/last-two-fields-in-fstab.md)
+- [World Wide Identifiers](linux/world-wide-identifiers.md)
+
+---
 
 ### SQL
 
 - [MAX Function](sql/max-function.md)
+
+---
 
 ### Vim
 
