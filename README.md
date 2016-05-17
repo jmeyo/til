@@ -9,6 +9,7 @@ I aim to contribute one small thing I learn each day to keep track of progress.
 ### Categories
 
 * [Bash](#bash)
+* [Cisco](#cisco)
 * [Linux](#linux)
 * [MySQL](#mysql)
 * [SQL](#sql)
@@ -20,6 +21,12 @@ I aim to contribute one small thing I learn each day to keep track of progress.
 
 - [Parsing Bash Arguments](bash/parsing-bash-arguments.md)
 - [Pretty Printing and Parsing JSON](bash/pretty-printing-and-parsing-json.md)
+
+---
+
+### Cisco
+
+- [Map Machine to Switchport On iOS](cisco/map-machine-to-switchport-on-ios.md)
 
 ---
 
