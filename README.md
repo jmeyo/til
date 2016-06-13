@@ -35,6 +35,7 @@ I aim to contribute one small thing I learn each day to keep track of progress.
 - [Clear Master Boot Record](linux/clear-master-boot-record.md)
 - [File Transfer Alternatives](linux/file-transfer-alternatives.md)
 - [Last Two Fields In fstab](linux/last-two-fields-in-fstab.md)
+- [Locking](linux/locking.md)
 - [OpenVPN Unified Format](linux/openvpn-unified-format.md)
 - [Using Wireshark Over SSH](linux/using-wireshark-over-ssh.md)
 - [Which Signals A Process Accepts](linux/which-signals-a-process-accepts.md)
