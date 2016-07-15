@@ -30,6 +30,12 @@ I aim to contribute one small thing I learn each day to keep track of progress.
 
 ---
 
+### Git
+
+- [Git with Multiple Remotes](git/git-with-multiple-remotes.md)
+
+---
+
 ### Linux
 
 - [Clear Master Boot Record](linux/clear-master-boot-record.md)
