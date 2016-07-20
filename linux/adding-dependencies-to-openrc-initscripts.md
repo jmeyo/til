@@ -20,4 +20,6 @@ In complex setups you'll often find yourself having to add dependencies to inits
 ## Just adding to the /etc/rc.conf
 `rc_service_name_need="!net"`
 
-[Reference: Gentoo OpenRC Documentation](https://wiki.gentoo.org/wiki/OpenRC#Dependency_behavior(
+
+
+[Reference: Gentoo OpenRC Documentation](https://wiki.gentoo.org/wiki/OpenRC#Dependency_behavior)
