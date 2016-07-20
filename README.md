@@ -38,6 +38,7 @@ I aim to contribute one small thing I learn each day to keep track of progress.
 
 ### Linux
 
+- [Adding Dependencies to OpenRC Initscripts](linux/adding-dependencies-to-openrc-initscripts.md)
 - [Clear Master Boot Record](linux/clear-master-boot-record.md)
 - [File Transfer Alternatives](linux/file-transfer-alternatives.md)
 - [Last Two Fields In fstab](linux/last-two-fields-in-fstab.md)
