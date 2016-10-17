@@ -46,6 +46,7 @@ I aim to contribute one small thing I learn each day to keep track of progress.
 - [Locking](linux/locking.md)
 - [Multiple Keys On A LUKS Device](linux/multiple-keys-luks.md)
 - [OpenVPN Unified Format](linux/openvpn-unified-format.md)
+- [Recover LUKS Keys From Mounted Volumes](linux/recovering-luks-keys-mounted-volumes.md)
 - [Using tcpdump with Rotatiton](linux/tcpdump-with-rotation.md)
 - [Using Wireshark Over SSH](linux/using-wireshark-over-ssh.md)
 - [Which Signals A Process Accepts](linux/which-signals-a-process-accepts.md)
