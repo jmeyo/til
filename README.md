@@ -44,6 +44,7 @@ I aim to contribute one small thing I learn each day to keep track of progress.
 - [Getting The Device Behind A dm Object](linux/getting-the-device-behind-a-dm-object.md)
 - [Last Two Fields In fstab](linux/last-two-fields-in-fstab.md)
 - [Locking](linux/locking.md)
+- [Multiple Keys On A LUKS Device](linux/multiple-keys-luks.md)
 - [OpenVPN Unified Format](linux/openvpn-unified-format.md)
 - [Using tcpdump with Rotatiton](linux/tcpdump-with-rotation.md)
 - [Using Wireshark Over SSH](linux/using-wireshark-over-ssh.md)
