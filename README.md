@@ -21,6 +21,7 @@ I aim to contribute one small thing I learn each day to keep track of progress.
 
 - [Parsing Bash Arguments](bash/parsing-bash-arguments.md)
 - [Pretty Printing and Parsing JSON](bash/pretty-printing-and-parsing-json.md)
+- [Special Variables In BASH And Other Shells](bash/special-variables.md)
 
 ---
 
